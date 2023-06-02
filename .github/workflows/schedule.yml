@@ -12,6 +12,6 @@ jobs:
         uses: maxam2017/productive-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: SLIPPECAT/40763ff625f5e3145dc44e431b7ebb37
+          GIST_ID: 40763ff625f5e3145dc44e431b7ebb37
           All_COMMITS: true
           TIMEZONE: Asia/Seoul
